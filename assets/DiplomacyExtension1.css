@@ -1,0 +1,76 @@
+body {
+    background-color: white;
+    border-top: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+div {
+    display: grid;
+}
+#web {
+    position: absolute;
+    width: 100%;
+    left: 0rem;
+}
+#header {
+    background-color:  #333333;
+    color: white;
+    text-align: center;
+    padding: 0px;
+    height: auto;
+}
+#backstabbr {
+    background-image: url("Backsabbr2.png");
+    background-repeat: no-repeat; 
+    background-color: antiquewhite;
+    /*background-position: center;*/
+    background-size: cover;
+}
+.content-padding {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.play-text {
+    background-color: white;
+}
+.line {
+    border: none;
+    background-color: #ccc;
+    color: #ccc;
+    height: 1px;
+    margin: 1px;
+}
+.bottom-border {
+    border-bottom: red;
+    border-bottom-width: 0.25rem;
+    border-bottom-style: solid;
+}
+.caption {
+    color: #9ACD32;
+}
+#webdiplomacy {
+    background-image: url("WebCombat.png");
+    background-repeat: no-repeat; 
+    background-color: antiquewhite;
+    /*background-position: center;*/
+    background-size: cover;    
+}
+#vdiplomacy {
+    background-image: url("VCombat.png");
+    background-repeat: no-repeat; 
+    background-color: antiquewhite;
+    background-position: center;
+    background-size: cover;        
+}
+#redscape {
+    /* background-image: url("VCombat.png"); */
+    background-repeat: no-repeat; 
+    background-color: antiquewhite;
+    background-position: center;
+    background-size: cover;    
+}
+#Sources {
+    background-color:  #333333;
+    color: white;
+    padding: 0px;    
+}
