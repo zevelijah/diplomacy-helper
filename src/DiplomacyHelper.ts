@@ -5,8 +5,8 @@ export class DiplomacyHelper extends LitElement {
   @property({ type: String }) title = 'Diplomacy Helper';
 
   static styles = css`
-    :host {
-    }
+    /* :host {
+    } */
     a:link {
       color: aqua;
       background-color: transparent;
