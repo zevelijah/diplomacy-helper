@@ -60,9 +60,9 @@ export class DiplomacyWebsite extends LitElement {
       text-decoration: underline;
     }
     .caption {
-    background-color: #ccc;
-    color: red;
-}
+      background-color: #ccc;
+      color: red;
+    }
   `;
 
   render() {
