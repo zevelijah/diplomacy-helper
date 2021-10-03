@@ -9,13 +9,13 @@ export class DiplomacyHelper extends LitElement {
     } */
     a:link {
       color: aqua;
-      background-color: transparent;
+      background-color: white;
       text-decoration: underline;
     }
 
     a:visited {
       color: red;
-      background-color: transparent;
+      background-color: white;
       text-decoration: underline;
     }
 
