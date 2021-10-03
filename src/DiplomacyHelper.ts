@@ -48,7 +48,7 @@ export class DiplomacyHelper extends LitElement {
         <div id="content">
           <div id="backstabbr" class="content-padding bottom-border">
             <h3><a href="https://www.backstabbr.com/">Backstabbr</a></h3>
-            <div id="backstabbr-text" class="play-text">
+            <div class="play-text">
               <p>
                 My favorite one, with simplistic graphics and relativly limited
                 game building options <br />(with your choice of press type,
