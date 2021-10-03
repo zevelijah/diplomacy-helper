@@ -61,8 +61,7 @@ export class DiplomacyHelper extends LitElement {
               <img
                 src="assets/BackstabbrMap.png"
                 alt="Backstabbr"
-                width="600"
-                height="500"
+                width="50%"
               />
               <figcaption class="caption">
                 <h5>
@@ -118,8 +117,7 @@ export class DiplomacyHelper extends LitElement {
               <img
                 src="assets/Web.png"
                 alt="WebDiplomacy"
-                width="600"
-                height="500"
+                width="50%"
               />
               <figcaption class="caption">
                 <h5>
@@ -148,8 +146,7 @@ export class DiplomacyHelper extends LitElement {
               <img
                 src="assets/Vdip.png"
                 alt="VDiplomacy"
-                width="600"
-                height="500"
+                width="50%"
               />
               <figcaption class="caption">
                 <h5>
@@ -183,8 +180,7 @@ export class DiplomacyHelper extends LitElement {
               <img
                 src="assets/DipGame.png"
                 alt="DipGame"
-                width="600"
-                height="500"
+                width="50%"
               />
               <figcaption class="caption">
                 <h5>The Hompage's sample game. dipgame.net</h5>
