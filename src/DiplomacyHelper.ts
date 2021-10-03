@@ -93,11 +93,21 @@ export class DiplomacyHelper extends LitElement {
             caption="A zoomed in sreenshot(which I took) of A WebDiplomacy board in Fall 1901. Its graphics aren't simple like backstabbr, just bad."
           >
             <p>
-              My favorite one, with simplistic graphics and relativly limited
-              game building options <br />(with your choice of press type,
-              adjudication increments, how much you punish players who arne't
-              fun, privacy and draw settings), it is perfect for players who
-              just want to casually backstab.
+              In basic terms, WebDiplomacy is a mix of the defining
+              characteristics of Backstabbr and PlayDiplomacy into an average
+              site, although it came before both of them. <br />It has a Forum,
+              and it's game creation process is a lot like Backstabbr, except it
+              allows public press, some variants, and, more importantly, has a
+              betting system. <br />The currency used by web diplomacy, which
+              bet on your games with, is "Diplomacy Points":as you win and lose
+              games, your collection and loss of bets is a good metric <br />for
+              how good you are. I suppose the principal is, the higher the skill
+              and hence points for each player is, the more willing they are to
+              lose points; hence, they bet higher. <br />So, your collection of
+              a large pot shows your ability to defeat good players. Anyway, the
+              elusiveness of this system has caused it to be near overshadowed
+              by a rating system like PlayDiplomacy's,<br />but points still
+              exist.
             </p>
           </diplomacy-website>
           <diplomacy-website
@@ -142,7 +152,6 @@ export class DiplomacyHelper extends LitElement {
           </div>
         </div>
         <div class="link-list bottom-border content-padding">
-          <hr class="line" />
           <h2>Sources</h2>
           <p>
             I did not know of all of these websites by myself. My main
@@ -168,10 +177,8 @@ export class DiplomacyHelper extends LitElement {
               >
             </li>
           </ul>
-          <hr class="line" />
         </div>
         <div id="updated">
-          <hr class="line" />
           <p>Last updated on October 3.</p>
         </div>
       </div>
