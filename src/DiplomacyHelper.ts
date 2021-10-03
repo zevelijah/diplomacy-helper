@@ -8,7 +8,7 @@ export class DiplomacyHelper extends LitElement {
     :host {
     }
     a:link {
-      color: white;
+      color: aqua;
       background-color: transparent;
       text-decoration: underline;
     }
