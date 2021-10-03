@@ -1,30 +1,20 @@
-<p align="center">
-  <img width="200" src="https://open-wc.org/hero.png"></img>
-</p>
+## Lit
 
-## Open-wc Starter App
+In order to prievatly run the code, you will have to download the entire reposeitory. This will give you acces to the moder tool chain, Lit, used for this 
+site.
 
-[![Built with open-wc recommendations](https://img.shields.io/badge/built%20with-open--wc-blue.svg)](https://github.com/open-wc)
+## Acessing
 
-## Quickstart
+After entering a text editor, the files you need to understand the page are: assets/DiplomacyExtensions1.css, index.html, src/DiplomacyHelper.ts, src/DiplomacyWebsite.ts. 
 
-To get started:
+## Run Locally
 
-```sh
-npm init @open-wc
-# requires node 10 & npm 6 or higher
+```bash
+npm run start
 ```
 
-## Scripts
+## Build For Deploymant
 
-- `start` runs your app for development, reloading on file changes
-- `start:build` runs your app after it has been built using the build command
-- `build` builds your app and outputs it in your `dist` directory
-- `test` runs your test suite with Web Test Runner
-- `lint` runs the linter for your project
-
-## Tooling configs
-
-For most of the tools, the configuration is in the `package.json` to reduce the amount of files in your project.
-
-If you customize the configuration a lot, you can consider moving them to individual files.
+```bash
+npm run build
+```
