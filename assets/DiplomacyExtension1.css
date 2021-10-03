@@ -31,10 +31,6 @@ div {
     border-bottom-width: 0.25rem;
     border-bottom-style: solid;
 }
-.caption {
-    background-color: #ccc;
-    color: red;
-}
 #Sources {
     background-color:  #333333;
     color: white;

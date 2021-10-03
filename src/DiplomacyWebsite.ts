@@ -59,6 +59,10 @@ export class DiplomacyWebsite extends LitElement {
       background-color: transparent;
       text-decoration: underline;
     }
+    .caption {
+    background-color: #ccc;
+    color: red;
+}
   `;
 
   render() {
