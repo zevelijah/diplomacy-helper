@@ -1,5 +1,6 @@
 import { LitElement, html, css } from 'lit';
 import { property } from 'lit/decorators.js';
+import './diplomacy-website.js';
 
 export class DiplomacyHelper extends LitElement {
   @property({ type: String }) title = 'Diplomacy Helper';
@@ -46,32 +47,23 @@ export class DiplomacyHelper extends LitElement {
           </h6>
         </div>
         <div id="content">
-          <div id="backstabbr" class="content-padding bottom-border">
-            <h3><a href="https://www.backstabbr.com/">Backstabbr</a></h3>
-            <div id="backstabbr-text" class="play-text">
-              <p>
-                My favorite one, with simplistic graphics and relativly limited
-                game building options <br />(with your choice of press type,
-                ajudication increments, how much you punish players who arne't
-                fun, privacy and draw settings), it is perfect for players who
-                just want to cassually backstab.
-              </p>
-            </div>
-            <figure>
-              <img
-                src="assets/BackstabbrMap.png"
-                alt="Backstabbr"
-                width="600"
-                height="500"
-              />
-              <figcaption class="caption">
-                <h5>
-                  A screenshot (which I took) of a Backstabbr board in spring
-                  1901. backsabbr.com
-                </h5>
-              </figcaption>
-            </figure>
-          </div>
+          <diplomacy-website
+            name="Backstabbr"
+            url="https://www.backstabbr.com/"
+            background="assets/Backsabbr2.png"
+            image="assets/BackstabbrMap.png"
+            caption="A screenshot (which I took) of a Backstabbr board in spring 1901. backsabbr.com"
+          >
+            <p>
+              My favorite one, with simplistic graphics and relativly limited
+              game building options <br />(with your choice of press type,
+              ajudication increments, how much you punish players who arne't
+              fun, privacy and draw settings), it is perfect for players who
+              just want to cassually backstab.
+            </p>
+            <p>test</p>
+            <p>test 2</p>
+          </diplomacy-website>
           <div id="playdiplomacy" class="content-padding bottom-border">
             <h3><a href="https://www.playdiplomacy.com/">PlayDiplomacy</a></h3>
             <p>
