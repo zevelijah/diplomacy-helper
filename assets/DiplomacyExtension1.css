@@ -19,13 +19,6 @@ div {
     padding: 0px;
     height: auto;
 }
-#backstabbr {
-    background-image: url("Backsabbr2.png");
-    background-repeat: no-repeat; 
-    background-color: antiquewhite;
-    /*background-position: center;*/
-    background-size: cover;
-}
 .content-padding {
     padding-left: 1rem;
     padding-right: 1rem;
@@ -42,41 +35,13 @@ div {
     background-color: #ccc;
     color: red;
 }
-#webdiplomacy {
-    background-image: url("WebCombat.png");
-    background-repeat: no-repeat; 
-    background-color: antiquewhite;
-    /*background-position: center;*/
-    background-size: cover;    
-}
-#vdiplomacy {
-    background-image: url("VCombat.png");
-    background-repeat: no-repeat; 
-    background-color: antiquewhite;
-    background-position: center;
-    background-size: cover;        
-}
-#redscape {
-    /* background-image: url("VCombat.png"); */
-    background-repeat: no-repeat; 
-    background-color: antiquewhite;
-    background-position: center;
-    background-size: cover;    
-}
 #Sources {
     background-color:  #333333;
     color: white;
-    padding: 0px;    
-}
-#Dipgame {
-    background-image: url(Dipgame2.png);
-    background-repeat: no-repeat; 
-    background-color: antiquewhite;
-    background-position: center;
-    background-size: cover;    
+    padding: 0px;
 }
 .link-list {
     background-color:  #333333;
     color: white;
     padding: 0px;
-}    
+}
