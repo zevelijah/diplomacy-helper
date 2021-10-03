@@ -33,13 +33,6 @@ div {
 .play-text {
     background-color: white;
 }
-.line {
-    border: none;
-    background-color: #ccc;
-    color: #ccc;
-    height: 1px;
-    margin: 1px;
-}
 .bottom-border {
     border-bottom: red;
     border-bottom-width: 0.25rem;
