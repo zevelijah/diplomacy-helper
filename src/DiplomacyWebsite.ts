@@ -25,6 +25,8 @@ export class DiplomacyWebsite extends LitElement {
     }
     .play-text {
       background-color: white;
+      padding-top: 0.1rem;
+      padding-bottom: 0.1rem;
     }
     .content-padding {
       padding-left: 1rem;
