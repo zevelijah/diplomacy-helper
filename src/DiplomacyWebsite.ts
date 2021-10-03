@@ -38,7 +38,7 @@ export class DiplomacyWebsite extends LitElement {
       border-bottom-style: solid;
     }
     a:link {
-      color: aqua;
+      color: #ff5349;
       background-color: white;
       text-decoration: underline;
     }
