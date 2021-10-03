@@ -46,7 +46,8 @@ div {
     border-bottom-style: solid;
 }
 .caption {
-    color: #9ACD32;
+    background-color: #ccc;
+    color: red;
 }
 #webdiplomacy {
     background-image: url("WebCombat.png");
@@ -74,3 +75,15 @@ div {
     color: white;
     padding: 0px;    
 }
+#Dipgame {
+    background-image: url(Dipgame2.png);
+    background-repeat: no-repeat; 
+    background-color: antiquewhite;
+    background-position: center;
+    background-size: cover;    
+}
+.link-list {
+    background-color:  #333333;
+    color: white;
+    padding: 0px;
+}    
