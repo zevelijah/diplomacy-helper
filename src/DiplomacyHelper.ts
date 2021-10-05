@@ -181,7 +181,7 @@ export class DiplomacyHelper extends LitElement {
         <div id="updated" class="bottom-border">
           <p>Last updated on October 3.</p>
         </div>
-        <!--Please don't destroy this just because it's javascript.-->
+        <!--Please don't destroy this just because it's javascript. This code was written by free-counters.org.-->
         <div>
           <a href='https://www.free-counters.org/'>https://www.free-Counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=f02fbf1fb5675d80b7c2300e89983c1123bf87bb'></script>
           <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/874049/t/0"></script>
