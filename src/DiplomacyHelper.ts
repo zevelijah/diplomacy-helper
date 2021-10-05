@@ -183,8 +183,8 @@ export class DiplomacyHelper extends LitElement {
         </div>
         <!--Please don't destroy this just because it's javascript. This code was written by free-counters.org.-->
         <div>
-          <a href='https://www.free-counters.org/'>https://www.free-Counters.org</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=f02fbf1fb5675d80b7c2300e89983c1123bf87bb'></script>
-          <script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/874049/t/0"></script>
+          <script type="text/javascript" src="https://www.free-counters.org/count/9i9g"></script><br>
+          <a href='https://www.free-counters.org/'>https://www.free-Counters.org</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=fe82132c3d005f2fba31d526d7c8bb4f55ed00c7'></script>
         </div>
       </div>
     `;
