@@ -9,7 +9,7 @@ export class DiplomacyHelper extends LitElement {
     /* :host {
     } */
     a:link {
-      color: aqua;
+      color: red;
       background-color: white;
       text-decoration: underline;
     }
@@ -179,7 +179,7 @@ export class DiplomacyHelper extends LitElement {
           </ul>
         </div>
         <div id="updated" class="bottom-border">
-          <p>Last updated on October 3.</p>
+          <p>Last updated on 2/7/2021.</p>
         </div>
       </div>
     `;
